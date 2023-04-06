@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.8.2",
+    "dotenv": "^16.0.3",
+    "hardhat": "^2.13.0",
+    "hardhat-contract-sizer": "^2.8.0",
+    "hardhat-deploy": "^0.11.25",
+    "solidity-coverage": "^0.8.2"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.2",
+    "@nomiclabs/hardhat-etherscan": "^3.1.7",
+    "@nomiclabs/hardhat-waffle": "^2.0.5",
+    "ethereum-waffle": "*",
+    "ethers": "^5.0.0",
+    "hardhat-gas-reporter": "^1.0.9",
+    "hardhat-shorthand": "^1.0.0"
+  }
+}
