@@ -21,4 +21,4 @@ Rob Token has the following features:
 
 ## Getting started
 
-To get started with Rob Token, you can download the source code from the repository and deploy it to a test network. The token has been created using the ERC-20 token standard and can be deployed on Ethereum-based test networks such as Ropsten, Rinkeby, or Kovan.
+To get started with Rob Token, you can download the source code from the repository and deploy it to a test network. The token has been created using the ERC-20 token standard and can be deployed on Ethereum-based test networks such as Goerli.
